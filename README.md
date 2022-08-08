@@ -1,3 +1,7 @@
+<p align="center">
+    <img alt="Logo" src=https://github.com/its-hmny/Academia/blob/main/Academia.jpg?raw=true">
+</p>
+
 # Academia
 
 A list of public papers, articles, essays and dissertations that I'm interested in
